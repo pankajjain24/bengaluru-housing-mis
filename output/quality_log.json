@@ -1,0 +1,18 @@
+{
+  "raw_rows": 13320,
+  "exact_duplicates_removed": 529,
+  "missing_location_removed": 1,
+  "missing_society_flagged": 5328,
+  "missing_size_removed": 16,
+  "sqft_range_averaged": 192,
+  "sqft_unit_converted": 46,
+  "sqft_unparseable_removed": 0,
+  "missing_bath_kept_blank": 57,
+  "missing_balcony_kept_blank": 589,
+  "flag_small_area": 738,
+  "flag_bath_mismatch": 16,
+  "flag_price_outlier": 723,
+  "rows_after_cleaning": 12774,
+  "valid_rows_used_for_kpis": 11383,
+  "rows_flagged_excluded": 1391
+}
